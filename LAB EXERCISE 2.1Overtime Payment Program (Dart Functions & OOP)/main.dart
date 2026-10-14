@@ -3,7 +3,7 @@ import 'myLib.dart';
 
 void main() {
   Employee employee = Employee(
-    'John',
+    'Kevin De Bruyne',
     4500.0,
     19,
     30.0,
